@@ -1,13 +1,11 @@
 
 
-export const textMsg = (text) => {
-    return text;
+export const multiplyByFour = (num) => {
+    return num * 4;
 }
 
+export const myArray = ["camel", 265, true, "5.6" ];
 
-
-export const array = ["Harish", 26, 1997];
-
-export const object = { name: "Harish", age: 26};
+export const bulb = { watts: 10, type: "LED"};
 
 

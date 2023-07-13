@@ -1,5 +1,5 @@
-import {textMsg, array, object } from "./exportMultipleValues.mjs";
+import {multiplyByFour, myArray, bulb } from "./exportMultipleValues.mjs";
 
-console.log(textMsg("This is a Function"));
-console.log(object);
-console.log(array);
+console.log(myArray);
+console.log(bulb);
+console.log(multiplyByFour(2));
